@@ -1,2 +1,2 @@
-# tes_design_blogger
+# tes_design_bloggertheme
 Tes pembuatan desain web template blogger
